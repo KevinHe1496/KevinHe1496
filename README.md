@@ -81,27 +81,18 @@ Hi, I'm Kevin Heredia!
 </p>
 <br/>
 
-<table style="border: none">
+<table style="border: none" align= "center">
   <tr>
-  <td width="50%" valign="top">
+  <td align="center">
 
 ## Let's Work on Your Project Together!
 
 If you have any questions about mobile development, feel free to <a href="mailto:kevin_heredia10@hotmail.com">contact me through email</a> me.
 
-You can hire me as a freelancer on <a href="https://www.fiverr.com">Fiverr</a> or <a href="https://www.linkedin.com/in/bouaskaoun/">LinkedIn</a> to deploy your machine learning project on web.
+You can hire me as a freelancer on <a href="https://www.linkedin.com/in/kevin-heredia-esparza/">LinkedIn</a> to deploy your machine learning project on web.
 
   </td>
-  <td width="50%" valign="top">
 
-## It's not perfect, isn't it?
-
-**<a href="https://github.com/KevinHe1496"><img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a>**
-
-“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
-– Elon Musk
-
-  </td>
   </tr>
 </table>
 
