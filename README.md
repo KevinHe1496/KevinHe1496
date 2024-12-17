@@ -95,8 +95,3 @@ You can hire me as a freelancer on <a href="https://www.linkedin.com/in/kevin-he
 
   </tr>
 </table>
-
-------
-
-- [LinkedIn](https://www.linkedin.com/in/kevin-heredia-esparza/)
-- [GitHub](https://github.com/KevinHe1496)
