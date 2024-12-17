@@ -51,7 +51,9 @@ Hi, I'm Kevin Heredia!
 <p align="center">
 	<a href="https://github.com/KevinHe1496">
 	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=KevinHe1496&show_icons=true" alt="Kevin">
+		<p align="center">
 	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=KevinHe1496" alt="Kevin">
+			</p>
 	</a>
 	<br/>
 </p>
@@ -85,7 +87,7 @@ Hi, I'm Kevin Heredia!
 
 ## Let's Work on Your Project Together!
 
-If you have any questions about front-end web development, feel free to <a href="mailto:bouaskaoun.mohammed@gmail.com">contact me through email</a> me.
+If you have any questions about mobile development, feel free to <a href="mailto:kevin_heredia10@hotmail.com">contact me through email</a> me.
 
 You can hire me as a freelancer on <a href="https://www.fiverr.com">Fiverr</a> or <a href="https://www.linkedin.com/in/bouaskaoun/">LinkedIn</a> to deploy your machine learning project on web.
 
