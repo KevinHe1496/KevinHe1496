@@ -13,8 +13,6 @@ Hi, I'm Kevin Heredia!
 
 🎯 My professional goal is to help companies develop attractive and efficient applications that not only meet user requirements but also deliver an exceptional user experience.
 
-📖 I have in-depth knowledge of Xcode, Swift, and Adobe tools such as Photoshop, Illustrator, and After Effects. My experience includes developing robust and visually impactful mobile applications.
-
 🔧 My skills include: Swift | SwiftUI | Vision Pro | Xcode | Combine | CoreData | Rx Swift | MapKit | ARKit | Core Location.
 
 <hr>
