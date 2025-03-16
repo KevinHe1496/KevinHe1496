@@ -9,7 +9,7 @@ Hi, I'm Kevin Heredia!
 
 
 
-✅ I'm a mobile developer specialized in iOS and Android, as well as a multimedia and graphic designer, with a passion for creating innovative and engaging digital experiences.
+✅ I'm a mobile developer specialized in iOS, as well as a multimedia and graphic designer, with a passion for creating innovative and engaging digital experiences.
 
 🎯 My professional goal is to help companies develop attractive and efficient applications that not only meet user requirements but also deliver an exceptional user experience.
 
