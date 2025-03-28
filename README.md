@@ -27,7 +27,6 @@ Hi, I'm Kevin Heredia!
 
 <p align="center">
     <a href="https://github.com/KevinHe1496"><img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"></a>
-    <a href="https://github.com/KevinHe1496"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"></a>
     <a href="https://github.com/KevinHe1496"><img alt="FireBase" src="https://camo.githubusercontent.com/6f6826054e63ddad94132a19b9b40a236bbfc06e92ec4adb987165705efd429f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f66697265626173652d2532333033394245352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6669726562617365"></a>
     <a href="https://github.com/KevinHe1496"><img alt="MacOs" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"></a>
     <a href="https://github.com/KevinHe1496"><img alt="iOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"></a>
