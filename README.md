@@ -7,8 +7,6 @@ Hi, I'm Kevin Heredia!
 
 <br/>
 
-
-
 ✅ I'm a mobile developer specialized in iOS, as well as a multimedia and graphic designer, with a passion for creating innovative and engaging digital experiences.
 
 🎯 My professional goal is to help companies develop attractive and efficient applications that not only meet user requirements but also deliver an exceptional user experience.
@@ -39,6 +37,26 @@ Hi, I'm Kevin Heredia!
     <a href="https://github.com/KevinHe1496"><img alt="Postman" src="https://camo.githubusercontent.com/cf06fedcca8eedc2ebcf41a87c79ae200b8e7f79b65a9c2dcd833d1990bd3290/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666f722d7468652d6261646765266c6f676f3d706f73746d616e266c6f676f436f6c6f723d7768697465"></a>
 </p>
 </br>
+
+## 📱 Published on the App Store
+
+<p align="center">
+  <a href="https://apps.apple.com/ec/app/field-finder/id6746458682?l=en-GB">
+    <img src="https://img.shields.io/badge/Field%20Finder-App%20Store-black?logo=apple&style=for-the-badge" alt="Field Finder on the App Store"/>
+  </a>
+  <br/>
+  <sub>Find & manage soccer fields. Swift (UIKit & SwiftUI) · MapKit · CoreLocation · StoreKit · Vapor</sub>
+</p>
+
+<p align="center">
+  <a href="https://apps.apple.com/ec/app/history-republic/id6748970649?l=en-GB">
+    <img src="https://img.shields.io/badge/History%20Republic-App%20Store-black?logo=apple&style=for-the-badge" alt="History Republic on the App Store"/>
+  </a>
+  <br/>
+  <sub>Explore historical heroes with details, quizzes, favorites, and auth. SwiftUI · Vapor · WebKit</sub>
+</p>
+
+<hr/>
 
 ## 📈GitHub Stats:
 
