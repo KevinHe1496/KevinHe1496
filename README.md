@@ -11,7 +11,7 @@ Hi, I'm Kevin Heredia!
 
 🎯 My professional goal is to help companies develop attractive and efficient applications that not only meet user requirements but also deliver an exceptional user experience.
 
-🔧 My skills include: Swift UIKit | SwiftUI | Vision Pro | Xcode | Combine | CoreData | SwiftData | MapKit | ARKit | Core Location | Vapor.
+🔧 My skills include: Swift | UIKit | SwiftUI | Xcode | Combine | CoreData | SwiftData | MapKit | Core Location | Clean Architecture | Vapor | StoreKit | App Store Connect.
 
 <hr>
 
@@ -40,11 +40,9 @@ Hi, I'm Kevin Heredia!
 ## 📱 Published on the App Store
 
 ### Field Finder  
-<p align="center">
-  <a href="https://apps.apple.com/ec/app/field-finder/id6746458682?l=en-GB">
-    <img src="https://img.shields.io/badge/Field%20Finder-App%20Store-black?logo=apple&style=for-the-badge" alt="Field Finder on the App Store"/>
-  </a>
-</p>
+<a href="https://apps.apple.com/ec/app/field-finder/id6746458682?l=en-GB">
+  <img src="https://img.shields.io/badge/Field%20Finder-App%20Store-black?logo=apple&style=for-the-badge" alt="Field Finder on the App Store"/>
+</a>  
 
 - **Technologies:** SwiftUI · Xcode · MapKit · CoreLocation · REST API · MVVM · Async/Await · Keychain · XCTest (unit testing) · StoreKit · Vapor  
 - **Description:** iOS application to find and manage soccer fields. It includes roles for players and owners, subscription handling with StoreKit, secure authentication, integration with MapKit for locations, and a custom backend built in Vapor.  
@@ -52,14 +50,12 @@ Hi, I'm Kevin Heredia!
 ---
 
 ### History Republic  
-<p align="center">
-  <a href="https://apps.apple.com/ec/app/history-republic/id6748970649?l=en-GB">
-    <img src="https://img.shields.io/badge/History%20Republic-App%20Store-black?logo=apple&style=for-the-badge" alt="History Republic on the App Store"/>
-  </a>
-</p>
+<a href="https://apps.apple.com/ec/app/history-republic/id6748970649?l=en-GB">
+  <img src="https://img.shields.io/badge/History%20Republic-App%20Store-black?logo=apple&style=for-the-badge" alt="History Republic on the App Store"/>
+</a>  
 
 - **Technologies:** SwiftUI · Xcode · WebKit · REST API · MVVM · Async/Await · Keychain · XCTest (unit testing)  
-- **Description:** Educational app to explore historical heroes in detail. Includes login and authentication with a Vapor backend, quizzes with scoring, the ability to add favorites, edit and delete heroes, and manage personal accounts.  
+- **Description:** Educational app to explore historical heroes in detail. Includes login and authentication with a Vapor backend, quizzes with scoring, the ability to add favorites, and manage personal accounts.  
 
 <hr/>
 
