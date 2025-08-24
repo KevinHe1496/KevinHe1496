@@ -1,89 +1,106 @@
+<!-- Polished, visually-rich GitHub README section for Kevin -->
+
 <h1 align="center">
-Hi, I'm Kevin Heredia!
-	<a href="https://github.com/KevinHe1496" target="_self">
-		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-	</a>
+  Hi, I'm Kevin Heredia!
+  <a href="https://github.com/KevinHe1496" target="_self">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+  </a>
 </h1>
 
-<br/>
-
-✅ I'm a mobile developer specialized in iOS, as well as a multimedia and graphic designer, with a passion for creating innovative and engaging digital experiences.
-
-🎯 My professional goal is to help companies develop attractive and efficient applications that not only meet user requirements but also deliver an exceptional user experience.
-
-🔧 My skills include: Swift UIKit | SwiftUI | Vision Pro | Xcode | Combine | CoreData | SwiftData | MapKit | ARKit | Core Location | Vapor.
-
-<hr>
-
-## 🤝 Connect with me
-<p>
-	<a href="https://www.linkedin.com/in/kevin-heredia-esparza/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://github.com/KevinHe1496"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/iOS%20Developer-SwiftUI%20·%20UIKit%20·%20Vapor-000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Ecuador-0a84ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-34c759?style=for-the-badge" />
 </p>
-
-## 🛠️ Tech Stack:
 
 <p align="center">
-    <a href="https://github.com/KevinHe1496"><img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"></a>
-    <a href="https://github.com/KevinHe1496"><img alt="FireBase" src="https://camo.githubusercontent.com/6f6826054e63ddad94132a19b9b40a236bbfc06e92ec4adb987165705efd429f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f66697265626173652d2532333033394245352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6669726562617365"></a>
-    <a href="https://github.com/KevinHe1496"><img alt="MacOs" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"></a>
-    <a href="https://github.com/KevinHe1496"><img alt="iOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"></a>
-    <a href="https://github.com/KevinHe1496"><img alt="Adobe" src="https://camo.githubusercontent.com/90ebaac4a164664cb6eb179c7e9698fb629ddd6225e6ccad030291f578d1d461/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f61646f62652d2532334646303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d61646f6265266c6f676f436f6c6f723d7768697465"></a>
-    <a href="https://github.com/KevinHe1496"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
-    <a href="https://github.com/KevinHe1496"><img alt="Firebase" src ="https://camo.githubusercontent.com/a5437581466397bfa3066cb55e6a0bbdd58b1dcfe0c4d4b107796ac13e3fdf3d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f66697265626173652d6130383032313f7374796c653d666f722d7468652d6261646765266c6f676f3d6669726562617365266c6f676f436f6c6f723d666663643334"></a>
-    <a href="https://github.com/KevinHe1496"><img alt="Git" src="https://camo.githubusercontent.com/94d83dc5838e2784bee25fe9e019bc2fda128676f32cef2f06baa0f6f3849b8c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742d2532334630353033332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465"></a>
-    <a href="https://github.com/KevinHe1496"><img alt="Xcode" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"></a>
-    <a href="https://github.com/KevinHe1496"><img alt="Realm" src="https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white"></a>
-    <a href="https://github.com/KevinHe1496"><img alt="Postman" src="https://camo.githubusercontent.com/cf06fedcca8eedc2ebcf41a87c79ae200b8e7f79b65a9c2dcd833d1990bd3290/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666f722d7468652d6261646765266c6f676f3d706f73746d616e266c6f676f436f6c6f723d7768697465"></a>
+  ✅ I'm a mobile developer specialized in iOS, as well as a multimedia and graphic designer.  
+  I love building delightful, performant apps with clean architecture and solid testing.
 </p>
 
-## 📱 Published on the App Store
-
-### Field Finder  
-<a href="https://apps.apple.com/ec/app/field-finder/id6746458682?l=en-GB">
-  <img src="https://img.shields.io/badge/Field%20Finder-App%20Store-black?logo=apple&style=for-the-badge" alt="Field Finder on the App Store"/>
-</a>  
-
-- **Technologies:** SwiftUI · Xcode · MapKit · CoreLocation · REST API · MVVM · Async/Await · Keychain · XCTest (unit testing) · StoreKit · Vapor  
-- **Description:** iOS application to find and manage soccer fields. It includes roles for players and owners, subscription handling with StoreKit, secure authentication, integration with MapKit for locations, and a custom backend built in Vapor.  
-
----
-
-### History Republic  
-<a href="https://apps.apple.com/ec/app/history-republic/id6748970649?l=en-GB">
-  <img src="https://img.shields.io/badge/History%20Republic-App%20Store-black?logo=apple&style=for-the-badge" alt="History Republic on the App Store"/>
-</a>  
-
-- **Technologies:** SwiftUI · Xcode · WebKit · REST API · MVVM · Async/Await · Keychain · XCTest (unit testing)  
-- **Description:** Educational app to explore historical heroes in detail. Includes login and authentication with a Vapor backend, quizzes with scoring, the ability to add favorites, and manage personal accounts.  
+<p align="center">
+  <b>Core Skills:</b> Swift UIKit · SwiftUI · Vision Pro · Xcode · Combine · CoreData · SwiftData · MapKit · ARKit · Core Location · Vapor
+</p>
 
 <hr/>
 
-## 📈GitHub Stats:
-
-<br/>
-<summary><b>⚡ Kevin's Stats</b></summary>
-<br/>
-<p align="center">
-	<a href="https://github.com/KevinHe1496">
-	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=KevinHe1496&show_icons=true" alt="Kevin">
-		<p align="center">
-	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=KevinHe1496" alt="Kevin">
-			</p>
-	</a>
-	<br/>
+## 🤝 Connect with me
+<p>
+  <a href="https://www.linkedin.com/in/kevin-heredia-esparza/">
+    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/KevinHe1496">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
-<br/>
+
+## 🛠️ Tech Stack (Daily Drivers)
+<p align="center">
+  <img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
+  <img alt="Xcode" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white">
+  <img alt="iOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white">
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+  <img alt="Realm" src="https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white">
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+</p>
+
+---
+
+## 📱 Published on the App Store
+
+<!-- FIELD FINDER CARD -->
+<div align="left">
+
+### ⚽ Field Finder
+<a href="https://apps.apple.com/ec/app/field-finder/id6746458682?l=en-GB">
+  <img src="https://img.shields.io/badge/Field%20Finder-View%20in%20App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Field Finder on the App Store"/>
+</a>
+
+**Technologies:**  
+`SwiftUI` · `Xcode` · `MapKit` · `CoreLocation` · `REST API` · `MVVM` · `Async/Await` · `Keychain` · `XCTest (unit testing)` · `StoreKit` · `Vapor`
+
+**Description:**  
+Find and manage soccer fields with roles for players and owners. Includes subscriptions with StoreKit, secure authentication with Keychain, interactive maps with MapKit/CoreLocation, and a custom backend built with Vapor. Built with MVVM, async/await, and unit-tested services.
+
+</div>
+
+---
+
+<!-- HISTORY REPUBLIC CARD -->
+<div align="left">
+
+### 🏛️ History Republic
+<a href="https://apps.apple.com/ec/app/history-republic/id6748970649?l=en-GB">
+  <img src="https://img.shields.io/badge/History%20Republic-View%20in%20App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white" alt="History Republic on the App Store"/>
+</a>
+
+**Technologies:**  
+`SwiftUI` · `Xcode` · `WebKit` · `REST API` · `MVVM` · `Async/Await` · `Keychain` · `XCTest (unit testing)`
+
+**Description:**  
+Educational app to explore historical heroes in detail. Features login and secure authentication (Keychain), quizzes with scoring, favorites, and account management. Uses a clean MVVM architecture with async/await networking and WebKit for rich content.
+
+</div>
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <a href="https://github.com/KevinHe1496">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=KevinHe1496&show_icons=true" alt="Kevin's GitHub Stats">
+  </a>
+</p>
+
+---
 
 <table style="border: none" align="center">
   <tr>
-  <td align="center">
+    <td align="center">
 
-## Let's Work on Your Project Together!
-
-If you have any questions about mobile development, feel free to <a href="mailto:kevin_heredia10@hotmail.com">contact me by email</a>.
-
-You can hire me as a freelancer on <a href="https://www.linkedin.com/in/kevin-heredia-esparza/">LinkedIn</a>.
+### Let’s Work on Your Project Together!
+If you have any questions about mobile development, feel free to <a href="mailto:kevin_heredia10@hotmail.com">contact me by email</a>.  
+You can also hire me as a freelancer on <a href="https://www.linkedin.com/in/kevin-heredia-esparza/">LinkedIn</a>.
 
   </td>
   </tr>
