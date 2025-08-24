@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <b>Core Skills:</b> Swift · UIKit · SwiftUI · API Rest · Xcode · Combine · CoreData · SwiftData · MapKit · WebKit · StoreKit · Core Location · Clean Architecture · Vapor
+  <b>Core Skills:</b> Swift · UIKit · SwiftUI · API Rest · Xcode · Combine · CoreData · SwiftData · MapKit · WebKit · StoreKit · Core Location · Clean Architecture · Vapor · App Store Connect
 </p>
 
 <hr/>
@@ -44,6 +44,8 @@
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   <img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
 ---
