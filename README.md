@@ -11,7 +11,7 @@ Hi, I'm Kevin Heredia!
 
 🎯 My professional goal is to help companies develop attractive and efficient applications that not only meet user requirements but also deliver an exceptional user experience.
 
-🔧 My skills include: Swift | UIKit | SwiftUI | Xcode | Combine | CoreData | SwiftData | MapKit | Core Location | Clean Architecture | Vapor | StoreKit | App Store Connect.
+🔧 My skills include: Swift UIKit | SwiftUI | Vision Pro | Xcode | Combine | CoreData | SwiftData | MapKit | ARKit | Core Location | Vapor.
 
 <hr>
 
