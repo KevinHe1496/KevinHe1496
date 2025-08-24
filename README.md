@@ -75,19 +75,6 @@ Hi, I'm Kevin Heredia!
 </p>
 <br/>
 
-<summary><b>⚡ Top Languages</b></summary>
-<br/>
-
-<p align="center">
-	<a href="https://github.com/KevinHe1496">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinHe1496&langs_count=8&layout=compact" alt="Kevin">
-	</a>
-	<br/>
-<br/>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</p>
-<br/>
-
 <table style="border: none" align="center">
   <tr>
   <td align="center">
