@@ -36,25 +36,30 @@ Hi, I'm Kevin Heredia!
     <a href="https://github.com/KevinHe1496"><img alt="Realm" src="https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white"></a>
     <a href="https://github.com/KevinHe1496"><img alt="Postman" src="https://camo.githubusercontent.com/cf06fedcca8eedc2ebcf41a87c79ae200b8e7f79b65a9c2dcd833d1990bd3290/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666f722d7468652d6261646765266c6f676f3d706f73746d616e266c6f676f436f6c6f723d7768697465"></a>
 </p>
-</br>
 
 ## 📱 Published on the App Store
 
+### Field Finder  
 <p align="center">
   <a href="https://apps.apple.com/ec/app/field-finder/id6746458682?l=en-GB">
     <img src="https://img.shields.io/badge/Field%20Finder-App%20Store-black?logo=apple&style=for-the-badge" alt="Field Finder on the App Store"/>
   </a>
-  <br/>
-  <sub>Find & manage soccer fields. Swift (UIKit & SwiftUI) · MapKit · CoreLocation · StoreKit · Vapor</sub>
 </p>
 
+- **Technologies:** SwiftUI · Xcode · MapKit · CoreLocation · REST API · MVVM · Async/Await · Keychain · XCTest (unit testing) · StoreKit · Vapor  
+- **Description:** iOS application to find and manage soccer fields. It includes roles for players and owners, subscription handling with StoreKit, secure authentication, integration with MapKit for locations, and a custom backend built in Vapor.  
+
+---
+
+### History Republic  
 <p align="center">
   <a href="https://apps.apple.com/ec/app/history-republic/id6748970649?l=en-GB">
     <img src="https://img.shields.io/badge/History%20Republic-App%20Store-black?logo=apple&style=for-the-badge" alt="History Republic on the App Store"/>
   </a>
-  <br/>
-  <sub>Explore historical heroes with details, quizzes, favorites, and auth. SwiftUI · Vapor · WebKit</sub>
 </p>
+
+- **Technologies:** SwiftUI · Xcode · WebKit · REST API · MVVM · Async/Await · Keychain · XCTest (unit testing)  
+- **Description:** Educational app to explore historical heroes in detail. Includes login and authentication with a Vapor backend, quizzes with scoring, the ability to add favorites, edit and delete heroes, and manage personal accounts.  
 
 <hr/>
 
@@ -73,16 +78,7 @@ Hi, I'm Kevin Heredia!
 	<br/>
 </p>
 <br/>
-<!--
-<summary><b>⚡ Activity graph</b></summary>
-<br/>
-<p align="center">
-	<a href="https://github.com/Bouaskaoun">
-		<img src="https://activity-graph.herokuapp.com/graph?username=bouaskaoun&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" alt="bouaskaoun">
-	</a>
-</p>
-<br/>
--->
+
 <summary><b>⚡ Top Languages</b></summary>
 <br/>
 
@@ -96,17 +92,16 @@ Hi, I'm Kevin Heredia!
 </p>
 <br/>
 
-<table style="border: none" align= "center">
+<table style="border: none" align="center">
   <tr>
   <td align="center">
 
 ## Let's Work on Your Project Together!
 
-If you have any questions about mobile development, feel free to <a href="mailto:kevin_heredia10@hotmail.com">contact me through email</a> me.
+If you have any questions about mobile development, feel free to <a href="mailto:kevin_heredia10@hotmail.com">contact me by email</a>.
 
-You can hire me as a freelancer on <a href="https://www.linkedin.com/in/kevin-heredia-esparza/">LinkedIn</a> to deploy your machine learning project on web.
+You can hire me as a freelancer on <a href="https://www.linkedin.com/in/kevin-heredia-esparza/">LinkedIn</a>.
 
   </td>
-
   </tr>
 </table>
