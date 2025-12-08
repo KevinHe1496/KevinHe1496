@@ -55,6 +55,21 @@
 <!-- FIELD FINDER CARD -->
 <div align="left">
 
+## 🚛 Towing Limit Pro
+<div align="left">
+
+<a href="https://apps.apple.com/us/app/towing-limit-pro/id6753998534">
+  <img src="https://img.shields.io/badge/Towing%20Limit%20Pro-View%20in%20App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Towing Limit Pro on the App Store"/>
+</a>
+
+**Technologies:**  
+`SwiftUI` · `SwiftData` · `CloudKit` · `MVVM` · `Clean Architecture` · `Async/Await` · `Firebase Analytics` · `Push Notifications`
+
+**Description:**  
+App designed for truck and RV owners to calculate safe towing limits. Includes Basic Mode and Expert Mode (CAT scale weights), automatic data sync with CloudKit, secure local storage with SwiftData, onboarding video tutorial, and real-time analytics tracking. Built with MVVM and a modular clean architecture.
+
+</div>
+
 ### ⚽ Field Finder
 <a href="https://apps.apple.com/ec/app/field-finder/id6746458682?l=en-GB">
   <img src="https://img.shields.io/badge/Field%20Finder-View%20in%20App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Field Finder on the App Store"/>
